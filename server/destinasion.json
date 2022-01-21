@@ -1,37 +1,114 @@
 [
     {
-        "id": 1,
-        "city": "Bali",
-        "name": "Pura Luhur Uluwatu",
-        "descripsion":"Pura Hindu kuno dengan pemandangan laut",
-        "imageUrl": "https://www.kintamani.id/wp-content/uploads/Keindahan-Pura-Luhur-Uluwatu-Bali.jpg"
+        "id": 6,
+        "city": "Malang",
+        "name": "Kampung Warna Warni Jodipan Malang",
+        "descripsion":"Village painted in vibrant colors",
+        "imageUrl": "https://asset.kompas.com/crops/pR8orpMNoKHMWTap64U5r9MAnEg=/0x0:739x493/750x500/data/photo/2020/09/01/5f4dfeb876f7b.jpg"
     },
     {
-        "id": 2,
-        "city": "Bali",
-        "name": "Seminyak",
-        "descripsion":"Pantai, Pura Petitenget & belanja",
-        "imageUrl": "http://1.bp.blogspot.com/-hAi1W2oZUy4/Vac7dipEThI/AAAAAAAAA0Q/UuBRmFtlufA/s1600/img_2912.jpg"
+        "id": 7,
+        "city": "Malang",
+        "name": "Jawa Timur Park 3",
+        "descripsion":"Attraction with dinosaurs & wax figures",
+        "imageUrl": "https://1.bp.blogspot.com/-EysEc8W7sMg/XPyxff9VkVI/AAAAAAAACws/6l7IRiF5YMoXBn_CovWHuZFJGamvpB0XACLcBGAs/w1200-h630-p-k-no-nu/jejak-kenzie_jatim-park-3-01.jpg"
     },
     {
-        "id": 3,
-        "city": "Bali",
-        "name": "Waterbom Bali",
+        "id": 8,
+        "city": "Malang",
+        "name": "Hawai Waterpark",
         "descripsion":"Taman air dengan wahana & restoran",
-        "imageUrl": "https://www.anekawisata.com/wp-content/uploads/2020/06/Waterbom-Bali.jpg"
+        "imageUrl": "https://dolanyok.com/wp-content/uploads/2019/10/hawai-waterpark-1.jpg"
     },
     {
-        "id": 4,
-        "city": "Bali",
-        "name": "Garuda Wisnu Kencana Cultural Park",
+        "id": 9,
+        "city": "Malang",
+        "name": "Coban Putri",
         "descripsion":"Ruang terbuka hijau dengan patung Hindu",
-        "imageUrl": "https://bali.com/wp-content/uploads/2020/08/GWK-800x800.jpg"
+        "imageUrl": "https://www.jejakpiknik.com/wp-content/uploads/2019/09/Coban-Putri-Batu-630x380.jpg"
     },
     {
-        "id": 5,
-        "city": "Bali",
-        "name": "Bali Safari & Marine Park",
+        "id": 10,
+        "city": "Jakarta",
+        "name": "National Monument",
         "descripsion":"Pilihan untuk melihat satwa & main air",
-        "imageUrl": "https://www.kintamani.id/wp-content/uploads/Keindahan-Pura-Luhur-Uluwatu-Bali.jpg"
+        "imageUrl": "https://www.indoindians.com/wp-content/uploads/2016/03/Monas.jpg"
+    },
+    {
+        "id": 11,
+        "city": "Jakarta",
+        "name": "Taman Mini Indonesia Indah",
+        "descripsion":"Pilihan untuk melihat satwa & main air",
+        "imageUrl": "https://akcdn.detik.net.id/visual/2021/04/08/wisata-tmii_169.jpeg"
+    },
+    {
+        "id": 12,
+        "city": "Jakarta",
+        "name": "Jakarta History Museum",
+        "descripsion":"Pilihan untuk melihat satwa & main air",
+        "imageUrl": "http://nowjakarta.co.id/assets/The-Jakarta-History-Museum-5-1024x565.jpg"
+    },
+    {
+        "id": 13,
+        "city": "Jakarta",
+        "name": "Dunia Fantasi",
+        "descripsion":"Pilihan untuk melihat satwa & main air",
+        "imageUrl": "https://s-light.tiket.photos/t/01E25EBZS3W0FY9GTG6C42E1SE/rsfit19201280gsm/events/2021/12/08/9c6ae660-1799-4276-b81d-f8b0b85669d6-1638949473006-1e6c55a1b1edca6bf250012af2cc79e2.jpg"
+    },
+    {
+        "id": 14,
+        "city": "Surabaya",
+        "name": "Suramadu Bridge",
+        "descripsion":"Pilihan untuk melihat satwa & main air",
+        "imageUrl": "https://imgsrv2.voi.id/M1OcR1L6PtdnliShthNupphp4qMuvMabnWWlq1CHpbI/auto/1200/675/sm/1/bG9jYWw6Ly8vcHVibGlzaGVycy81ODEzOC8yMDIxMDYxMDE1MjktbWFpbi5jcm9wcGVkXzE2MjMzMTM4MzYuanBlZw.jpg"
+    },
+    {
+        "id": 15,
+        "city": "Surabaya",
+        "name": "Mount Bromo",
+        "descripsion":"Volcanic mountain with stairs leading up",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Bromo-Semeru-Batok-Widodaren.jpg"
+    },
+    {
+        "id": 16,
+        "city": "Surabaya",
+        "name": "Surabaya Submarine Monument",
+        "descripsion":"Pilihan untuk melihat satwa & main air",
+        "imageUrl": "https://kfmap.asia/thumbs/photos/ID.SBY.LM.3/ID.SBY.LM.3_1.jpg"
+    },
+    {
+        "id": 17,
+        "city": "Surabaya",
+        "name": "Muhammad Cheng Hoo Mosque",
+        "descripsion":"Mosque in Chinese architectural style",
+        "imageUrl": "https://cdn.idntimes.com/content-images/community/2020/01/masjid-muhammad-cheng-ho-2-d270d002b29ea05e9b6edb297b5499ff_600x400.jpg"
+    },
+    {
+        "id": 18,
+        "city": "Yogyakarta",
+        "name": "Jalan Malioboro",
+        "descripsion":"Bustling street with shops & restaurants",
+        "imageUrl": "https://statics.indozone.id/content/2019/10/23/1xsdOp/t_5db0207fe1a3c_700.jpg"
+    },
+    {
+        "id": 19,
+        "city": "Yogyakarta",
+        "name": "Taman Sari",
+        "descripsion":"Legendary historic bathing complex",
+        "imageUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Jogjakarta%2C_January_2007.jpg"
+    },
+    {
+        "id": 20,
+        "city": "Yogyakarta",
+        "name": "The Palace of Yogyakarta",
+        "descripsion":"Opulent 18th-century palace",
+        "imageUrl": "https://www.yogya-backpacker.com/wp-content/uploads/2015/06/Sultan_Palace5.jpg"
+    },
+    {
+        "id": 21,
+        "city": "Yogyakarta",
+        "name": "Gembira Loka Zoo",
+        "descripsion":"Zoo, elephant, penguins, garden and orangutans",
+        "imageUrl": "https://joss.co.id/data/uploads/2018/11/gembira-loka-zoo-jogja.jpg"
     }
   ]
