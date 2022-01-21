@@ -1,0 +1,37 @@
+[
+    {
+        "id": 1,
+        "city": "Bali",
+        "name": "Pura Luhur Uluwatu",
+        "descripsion":"Pura Hindu kuno dengan pemandangan laut",
+        "imageUrl": "https://www.kintamani.id/wp-content/uploads/Keindahan-Pura-Luhur-Uluwatu-Bali.jpg"
+    },
+    {
+        "id": 2,
+        "city": "Bali",
+        "name": "Seminyak",
+        "descripsion":"Pantai, Pura Petitenget & belanja",
+        "imageUrl": "http://1.bp.blogspot.com/-hAi1W2oZUy4/Vac7dipEThI/AAAAAAAAA0Q/UuBRmFtlufA/s1600/img_2912.jpg"
+    },
+    {
+        "id": 3,
+        "city": "Bali",
+        "name": "Waterbom Bali",
+        "descripsion":"Taman air dengan wahana & restoran",
+        "imageUrl": "https://www.anekawisata.com/wp-content/uploads/2020/06/Waterbom-Bali.jpg"
+    },
+    {
+        "id": 4,
+        "city": "Bali",
+        "name": "Garuda Wisnu Kencana Cultural Park",
+        "descripsion":"Ruang terbuka hijau dengan patung Hindu",
+        "imageUrl": "https://bali.com/wp-content/uploads/2020/08/GWK-800x800.jpg"
+    },
+    {
+        "id": 5,
+        "city": "Bali",
+        "name": "Bali Safari & Marine Park",
+        "descripsion":"Pilihan untuk melihat satwa & main air",
+        "imageUrl": "https://www.kintamani.id/wp-content/uploads/Keindahan-Pura-Luhur-Uluwatu-Bali.jpg"
+    }
+  ]
